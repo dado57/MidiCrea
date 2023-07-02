@@ -2,6 +2,9 @@
 Crea Midi file di 9 misure variando scala nota di base, random pattern e altro
 ## Graphical Interface - tkinter
 ##	Midi-Mido interface
+
+![image DadoCrea] (DadoCrea.png)
+
 Create MIDI file type 1, Use 5 channel
 
 Create 10 tracks: Track0, Bass, Piano, Voice1, Voice2 and 5 for Drum
@@ -35,3 +38,9 @@ Editing Pattern Length and Height Note
 Randomly selects Rhythmic and Melodic patterns from (few) stored patterns
 
 It takes patterns from the grid and returns to different pattern
+
+# Thanks
+**Phython** community who have put their software and advice online.
+
+Special thanks to the authors of **Mido** who made the possibility of creating music software using python.
+
