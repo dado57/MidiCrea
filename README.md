@@ -3,7 +3,7 @@ Crea Midi file di 9 misure variando scala nota di base, random pattern e altro
 ## Graphical Interface - tkinter
 ##	Midi-Mido interface
 
-![image DadoCrea](.DadoCrea.png)
+![image DadoCrea](DadoCrea.jpg)
 
 Create MIDI file type 1, Use 5 channel
 
