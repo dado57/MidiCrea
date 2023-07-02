@@ -1,0 +1,27 @@
+	Dado Midi Crea
+	Interfaccia Grafica - tkinter
+	Interfaccia Midi    - Mido
+Crea MIDI file type 1, Utilizza 5 channel
+Crea 10 tracce: Traccia0, Basso, Piano, Voce1, Voce2 e 5 per Drum
+Massimo numero di Misure = 9
+Dati fissi: 4/4 (numerator=4, denominator=4)
+Lunghezza nota minima = 1/8
+Lunghezza nota massima= 8/8
+
+Parametri
+Tempo   = BPM
+Scala   = Scelta tra alcuni tipi di scale
+Key     = Scelta della nota base (tonica) (tra 0 e 11)
+Accordo = per ogni misura si puo segliere il grado rispetto
+		  alla nota base nei diversi accordi.
+		  Gli accordi possono essere composti da 1 a 4 note
+		  Per ogni nota dell'accordo si puo segliere l'ottava
+		  e il grado (distanza da tonica = 0)
+
+Visualizza PianoRoll (muting di traccia)
+Editing Pattern Lunghezza e Altezza Nota
+
+Seglie in modo casuale pattern Ritmici e Melodici 
+	da (pochi) pattern memorizzati
+
+Prende i pattern dalla griglia e ritorna su pattern diverso
