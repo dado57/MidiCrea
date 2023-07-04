@@ -5,6 +5,8 @@ Crea Midi file di 9 misure variando scala nota di base, random pattern e altro
 
 ![image DadoCrea](DadoCrea.jpg)
 
+Link to YouTube https://youtu.be/pyVhJaYHakM
+
 Create MIDI file type 1, Use 5 channel
 
 Create 10 tracks: Track0, Bass, Piano, Voice1, Voice2 and 5 for Drum
